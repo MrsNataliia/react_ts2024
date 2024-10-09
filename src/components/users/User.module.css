@@ -1,0 +1,37 @@
+.main{
+    display: flex;
+    background-color: #9dbfd9;
+    margin: 2px;
+    flex-direction: column;
+}
+
+.user{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    color: #3d3d64;
+}
+
+ .img{
+     display: flex;
+     justify-content: center;
+     width: 15vw;
+ }
+
+ .userName{
+     width: 30vw;
+ }
+
+ .h2{
+     text-shadow: 2px 2px #558ABB;
+ }
+
+ .button{
+     border-radius: 10px;
+     background: #FFF;
+     box-shadow: 0 3px 35px 0 rgba(95, 98, 102, 0.17);
+     margin: 5px;
+     border: none;
+     color: #757575;
+     font-size: 1.11vw;
+ }

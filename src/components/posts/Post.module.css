@@ -1,0 +1,21 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    background-color: #c1d6ee;
+    color: #263d5e;
+}
+
+.id{
+    margin: 0 0 0 20px;
+    font-style: oblique;
+}
+
+.title{
+    margin: 40px 0 20px 100px;
+    text-shadow: 1px 1px #558ABB;
+}
+
+.text {
+    padding: 10px 10px 20px 30px;
+}
+
