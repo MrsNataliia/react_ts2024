@@ -1,0 +1,23 @@
+.header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 30px;
+    background-color: #9180af;
+}
+
+.header a{
+    text-decoration: none;
+    color: rgb(43, 24, 66);
+    font-size: 20px;
+    text-shadow: 2px 2px #558ABB;
+}
+
+.header a:hover{
+
+    color: rgb(241, 235, 235);
+}
+
+.header a[class='active']{
+    color: azure;
+}
