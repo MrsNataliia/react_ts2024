@@ -1,6 +1,7 @@
+import {axiosService} from "./axiosService";
 
 import {IUser} from "../models/IUser";
-import {axiosService} from "./axiosService";
+
 
 export const usersService ={
     getAllUsers:  async ():Promise<IUser[]> =>{

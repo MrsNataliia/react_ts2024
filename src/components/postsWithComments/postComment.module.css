@@ -1,0 +1,20 @@
+.main{
+    background-color: #d1ead1;
+    margin: 20px;
+    flex-direction: column;
+    width: 90vw;
+
+}
+
+.h3{
+    text-shadow: 1.5px 1.5px #558ABB;
+    margin: 10px 0 10px 50px;
+}
+
+.comment{
+    background-color: #8ed18e;
+    padding: 30px;
+}
+.post{
+    margin: 20px;
+}

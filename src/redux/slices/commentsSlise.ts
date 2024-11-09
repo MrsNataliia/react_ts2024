@@ -1,7 +1,9 @@
 import {createAsyncThunk, createSlice, isFulfilled, isRejected} from "@reduxjs/toolkit";
 import {AxiosError} from "axios";
+
 import {IComment} from "../../models/IComment";
 import {commentsService} from "../../services/commentsService";
+
 
 type CommentSliceType = {
     comments: IComment[]

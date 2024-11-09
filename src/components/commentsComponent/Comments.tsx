@@ -1,6 +1,6 @@
 import React, {useEffect} from 'react';
-
 import {useAppDispatch, useAppSelector} from "../../redux/store";
+
 import {commentSliceActions} from "../../redux/slices/commentsSlise";
 import {Comment} from "./Comment";
 

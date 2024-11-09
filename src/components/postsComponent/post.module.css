@@ -1,0 +1,11 @@
+.main{
+    background-color: #d1ead1;
+    margin: 10px;
+    flex-direction: column;
+    width: 90vw;
+}
+
+.h3{
+    text-shadow: 1px 1px #558ABB;
+    margin: 10px 0 10px 50px;
+}
